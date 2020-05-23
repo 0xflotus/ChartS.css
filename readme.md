@@ -11,7 +11,7 @@ Likewise, if you're viewing the website, you can see the github page [here](http
 - No javascript or other frameworks, no external dependencies, uses only a small .css file
 - Use html templates to directly create charts, or convert from markdown
 
-The point of C💚SS.css is to allow easy creation of simple charts for documentation, data storytelling / journalism, etc. It features plots of 1-D lists, and has a custom markdown filter that converts suitably formatted lists directly to charts. It has no dependencies (other than a modern browser), and is very small compared to javascript based charting tools. The html is based on `<ul>` lists and will collapse back to readible lists in the absence of css support, making it accessible to all readers. It is open source and easily configurable according to project needs.
+The point of C💚SS.css is to allow easy creation of simple charts for documentation, data storytelling / journalism, etc. It features plots of 1-D lists, and has a custom markdown filter that converts suitably formatted lists directly to charts. It has no dependencies (other than a modern browser), and is very small compared to javascript based charting tools. The html is based on `<ul>` lists and will collapse back to readable lists in the absence of css support, making it accessible to all readers. It is open source and easily configurable according to project needs.
 
 The non-chart elements on the html version of this page were styled with [mvp.css](https://andybrewer.github.io/mvp/). MVP.css was one of the inspirations for C💚SS.css. Although C💚SS.css turned out very differently, MVP.css got me on to the idea of having a simple, self-contained .css file that could easily transform a text page into something nice.
 
